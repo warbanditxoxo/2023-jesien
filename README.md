@@ -5,6 +5,9 @@
 **Arknights: Touin Kiro** *(Arknights: PERISH IN FROST)*
 * FrixySubs
 
+**Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta** *(My Daughter Left the Nest and Returned an S-Rank Adventurer)*
+* Max-subs
+
 **Boushoku no Berserk** *(Berserk of Gluttony)*
 * shisha
 * FrixySubs
@@ -115,6 +118,9 @@
 **Rail Romanesque 2**
 * TokyoSubs
 
+**Seijo no Maryoku wa Bannou desu Season 2** *(The Saint's Magic Power is Omnipotent II)*
+* Max-subs
+
 **Seiken Gakuin no Makentsukai** *(The Demon Sword Master of Excalibur Academy)*
 * Demo Subs
 
@@ -174,6 +180,7 @@
 * Fumetsu
 * Fusoku Subs
 * Maou Subs
+* Max-subs
 * Mioro-Subs
 * shisha
 * TokyoSubs
@@ -182,7 +189,6 @@
 
 * ~~Desu-Online~~
 * ~~DraGoNSubs~~
-* Max-subs
 * NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
@@ -201,8 +207,6 @@
 **Bokura no Ameiro Protocol** *(Protocol: Rain)*
 
 **Bullbuster**
-
-**Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta** *(My Daughter Left the Nest and Returned an S-Rank Adventurer)*
 
 **B-PROJECT: Netsuretsu\*Love Call** *(B-PROJECT Passion*Love Call)*
 
@@ -233,8 +237,6 @@
 **Potion-danomi de Ikinobimasu!** *(I Shall Survive Using Potions!)*
 
 **Saihate no Paladin: Tetsusabi no Yama no Ou** *(The Faraway Paladin: The Lord of Rust Mountains)*
-
-**Seijo no Maryoku wa Bannou desu Season 2** *(The Saint's Magic Power is Omnipotent II)*
 
 **Shangri-La Frontier**
 
