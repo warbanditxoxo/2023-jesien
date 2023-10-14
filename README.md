@@ -2,20 +2,29 @@
 
 ## <u>Co kto tłumaczy?</u> ##
 
+**Arknights: Touin Kiro** *(Arknights: PERISH IN FROST)*
+* FrixySubs
+
 **Boushoku no Berserk** *(Berserk of Gluttony)*
 * shisha
+* FrixySubs
 
 **Dead Mount Death Play Part 2**
 * shisha
 * Demo Subs
 
+**Dr. STONE: NEW WORLD Part 2**
+* FrixySubs
+
 **Goblin Slayer II**
 * shisha
+* FrixySubs
 
 **Hametsu no Oukoku** *(The Kingdoms of Ruin)*
 * shisha
 * Demo Subs
 * Fusoku Subs
+* FrixySubs
 
 **Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
 * Demo Subs
@@ -29,12 +38,16 @@
 **Kage no Jitsuryokusha ni Naritakute! 2nd season** *(The Eminence in Shadow Season 2)*
 * shisha
 * Demo Subs
+* FrixySubs
 
 **Kamierabi** *(KamiErabi GOD.app)*
 * FujiSubs
 
 **Kamonohashi Ron no Kindan Suiri** *(Ron Kamonohashi's Forbidden Deductions)*
 * Demo Subs
+
+**Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.** *(Our Dating Story: The Experienced You and The Inexperienced Me)*
+* FrixySubs
 
 **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
 * Demo Subs
@@ -43,13 +56,26 @@
 **Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
 * shisha
 * Demo Subs
+* FrixySubs
 
 **Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
 * shisha
 * FujiSubs
 
+**Mahoutsukai no Yoru** *(Witch on the Holy Night)*
+* FrixySubs
+
 **MF Ghost**
 * Demo Subs
+
+**Ojou to Banken-kun** *(A Girl & Her Guard Dog)*
+* FrixySubs
+
+**Overtake!**
+* FrixySubs
+
+**Ragna Crimson**
+* FrixySubs
 
 **Seiken Gakuin no Makentsukai** *(The Demon Sword Master of Excalibur Academy)*
 * Demo Subs
@@ -58,9 +84,18 @@
 * shisha
 * Demo Subs
 * Fusoku Subs
+* FrixySubs
+
+**Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
+* Disney
+* FrixySubs
+
+**Uma Musume: Pretty Derby Season 3** *(Umamusume: Pretty Derby Season 3)*
+* FrixySubs
 
 **Undead Unluck**
 * shisha
+* FrixySubs
 
 ## <u>Hentai</u> ##
 
@@ -74,7 +109,6 @@
 * Desu-Online
 * DraGoNSubs
 * FAVA SUBS
-* FrixySubs
 * Fumetsu
 * Maou Subs
 * Max-subs
@@ -88,8 +122,6 @@
 ## <u>Tytuły bez tłumaczeń</u> ##
 
 **16bit Sensation: ANOTHER LAYER**
-
-**Arknights: Touin Kiro** *(Arknights: PERISH IN FROST)*
 
 **Atarashii Joushi wa Dotennen** *(My New Boss is Goofy)*
 
@@ -111,8 +143,6 @@
 
 **DOG SIGNAL**
 
-**Dr. STONE: NEW WORLD Part 2**
-
 **FLCL: Shoegaze**
 
 **Hypnosis Mic -Division Rap Battle- Rhyme Anima+**
@@ -120,8 +150,6 @@
 **Kanojo mo Kanojo Season 2** *(Girlfriend, Girlfriend Season 2)*
 
 **Kawagoe Boys Sing** *(KAWAGOE BOYS SING -Now or Never-)*
-
-**Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.** *(Our Dating Story: The Experienced You and The Inexperienced Me)*
 
 **Kibou no Chikara: Otona Precure '23** *(Power of Hope ~Precure Full Bloom~)*
 
@@ -137,15 +165,9 @@
 
 **Nanatsu no Taizai: Mokushiroku no Yonkishi**
 
-**Ojou to Banken-kun** *(A Girl & Her Guard Dog)*
-
-**Overtake!**
-
 **Paradox Live THE ANIMATION**
 
 **Potion-danomi de Ikinobimasu!** *(I Shall Survive Using Potions!)*
-
-**Ragna Crimson**
 
 **Saihate no Paladin: Tetsusabi no Yama no Ou** *(The Faraway Paladin: The Lord of Rust Mountains)*
 
@@ -164,10 +186,6 @@
 **The IDOLM@STER Million Live!**
 
 **Toaru Ossan no VRMMO Katsudouki** *(A Playthrough of a Certain Dude's VRMMO Life)*
-
-**Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
-
-**Uma Musume: Pretty Derby Season 3** *(Umamusume: Pretty Derby Season 3)*
 
 **Under Ninja**
 
