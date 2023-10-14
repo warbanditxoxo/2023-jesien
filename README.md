@@ -103,6 +103,7 @@
 * FrixySubs
 * Mioro-Subs
 * FAVA SUBS
+* DA-Subs
 
 **Spy x Family Movie: Code: White**
 * TokyoSubs
@@ -114,6 +115,7 @@
 * Mioro-Subs
 * FAVA SUBS
 * TokyoSubs
+* DA-Subs
 
 **Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
 * Disney
@@ -121,6 +123,7 @@
 
 **Uma Musume: Pretty Derby Season 3** *(Umamusume: Pretty Derby Season 3)*
 * FrixySubs
+* DA-Subs
 
 **Undead Unluck**
 * shisha
@@ -136,6 +139,7 @@
 
 ## <u>Uwzględnione grupy</u> ##
 
+* DA-Subs
 * Demo Subs
 * FAVA SUBS
 * FrixySubs
@@ -147,7 +151,6 @@
 
 ## <u>Nieuwzględnione grupy</u> ##
 
-* DA-Subs
 * Desu-Online
 * DraGoNSubs
 * Fumetsu
