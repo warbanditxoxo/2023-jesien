@@ -8,6 +8,7 @@
 **Boushoku no Berserk** *(Berserk of Gluttony)*
 * shisha
 * FrixySubs
+* Fumetsu
 
 **Dead Mount Death Play Part 2**
 * shisha
@@ -24,12 +25,14 @@
 * shisha
 * FrixySubs
 * Mioro-Subs
+* Fumetsu
 
 **Hametsu no Oukoku** *(The Kingdoms of Ruin)*
 * shisha
 * Demo Subs
 * Fusoku Subs
 * FrixySubs
+* Fumetsu
 
 **Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
 * Demo Subs
@@ -46,6 +49,7 @@
 * Demo Subs
 * FrixySubs
 * Mioro-Subs
+* Fumetsu
 
 **Kamierabi** *(KamiErabi GOD.app)*
 * FujiSubs
@@ -78,8 +82,10 @@
 * FrixySubs
 
 **MF Ghost**
+* Noizy Tribe
 * Demo Subs
 * TokyoSubs
+* Fumetsu
 
 **Ojou to Banken-kun** *(A Girl & Her Guard Dog)*
 * FrixySubs
@@ -104,6 +110,7 @@
 * Mioro-Subs
 * FAVA SUBS
 * DA-Subs
+* Fumetsu
 
 **Spy x Family Movie: Code: White**
 * TokyoSubs
@@ -132,6 +139,7 @@
 
 **Under Ninja**
 * TokyoSubs
+* Fumetsu
 
 ## <u>Hentai</u> ##
 
@@ -144,6 +152,7 @@
 * FAVA SUBS
 * FrixySubs
 * FujiSubs
+* Fumetsu
 * Fusoku Subs
 * Mioro-Subs
 * shisha
@@ -151,15 +160,14 @@
 
 ## <u>Nieuwzględnione grupy</u> ##
 
-* Desu-Online
-* DraGoNSubs
-* Fumetsu
+* ~~Desu-Online~~
+* ~~DraGoNSubs~~
 * Maou Subs
 * Max-subs
 * NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
-* wbijam (Twoja Mała Japonia)
+* ~~wbijam (Twoja Mała Japonia)~~
 
 ## <u>Tytuły bez tłumaczeń</u> ##
 
