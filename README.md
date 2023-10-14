@@ -2,7 +2,32 @@
 
 ## <u>Co kto tłumaczy?</u> ##
 
+**Boushoku no Berserk** *(Berserk of Gluttony)*
+* shisha
 
+**Dead Mount Death Play Part 2**
+* shisha
+
+**Goblin Slayer II**
+* shisha
+
+**Hametsu no Oukoku** *(The Kingdoms of Ruin)*
+* shisha
+
+**Kage no Jitsuryokusha ni Naritakute! 2nd season** *(The Eminence in Shadow Season 2)*
+* shisha
+
+**Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
+* shisha
+
+**Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
+* shisha
+
+**Sousou no Frieren** *(Frieren: Beyond Journey’s End)*
+* shisha
+
+**Undead Unluck**
+* shisha
 
 ## <u>Hentai</u> ##
 
@@ -27,7 +52,6 @@
 * NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
-* shisha
 * TokyoSubs
 * wbijam (Twoja Mała Japonia)
 
@@ -49,15 +73,11 @@
 
 **Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta** *(My Daughter Left the Nest and Returned an S-Rank Adventurer)*
 
-**Boushoku no Berserk** *(Berserk of Gluttony)*
-
 **B-PROJECT: Netsuretsu\*Love Call** *(B-PROJECT Passion*Love Call)*
 
 **Buta no Liver wa Kanetsu Shiro** *(Butareba -The Story of a Man Turned into a Pig-)*
 
 **Captain Tsubasa: Season 2 - Junior Youth-hen** *(Captain Tsubasa: Junior Youth Arc)*
-
-**Dead Mount Death Play Part 2**
 
 **DOG SIGNAL**
 
@@ -65,17 +85,11 @@
 
 **FLCL: Shoegaze**
 
-**Goblin Slayer II**
-
-**Hametsu no Oukoku** *(The Kingdoms of Ruin)*
-
 **Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
 
 **Hoshikuzu Telepath** *(Stardust Telepath)*
 
 **Hypnosis Mic -Division Rap Battle- Rhyme Anima+**
-
-**Kage no Jitsuryokusha ni Naritakute! 2nd season** *(The Eminence in Shadow Season 2)*
 
 **Kamierabi** *(KamiErabi GOD.app)*
 
@@ -96,10 +110,6 @@
 **Kizuna no Allele Season 2** *(Kizuna no Allele 2nd Season)*
 
 **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
-
-**Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
-
-**Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
 
 **Megumi no Daigo: Kyuukoku no Orange** *(Firefighter Daigo: Rescuer in Orange)*
 
@@ -127,8 +137,6 @@
 
 **SHY**
 
-**Sousou no Frieren** *(Frieren: Beyond Journey’s End)*
-
 **SPY×FAMILY Season 2**
 
 **Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
@@ -142,8 +150,6 @@
 **Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
 
 **Uma Musume: Pretty Derby Season 3** *(Umamusume: Pretty Derby Season 3)*
-
-**Undead Unluck**
 
 **Under Ninja**
 
