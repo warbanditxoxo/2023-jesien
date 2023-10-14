@@ -16,9 +16,13 @@
 **Dr. STONE: NEW WORLD Part 2**
 * FrixySubs
 
+**FLCL: Grunge**
+* Mioro-Subs
+
 **Goblin Slayer II**
 * shisha
 * FrixySubs
+* Mioro-Subs
 
 **Hametsu no Oukoku** *(The Kingdoms of Ruin)*
 * shisha
@@ -31,6 +35,7 @@
 
 **Hoshikuzu Telepath** *(Stardust Telepath)*
 * Demo Subs
+* Mioro-Subs
 
 **Houkago Shounen Hanako-kun** *(After-school Hanako-kun)* [TV short]
 * FujiSubs
@@ -39,12 +44,14 @@
 * shisha
 * Demo Subs
 * FrixySubs
+* Mioro-Subs
 
 **Kamierabi** *(KamiErabi GOD.app)*
 * FujiSubs
 
 **Kamonohashi Ron no Kindan Suiri** *(Ron Kamonohashi's Forbidden Deductions)*
 * Demo Subs
+* Mioro-Subs
 
 **Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.** *(Our Dating Story: The Experienced You and The Inexperienced Me)*
 * FrixySubs
@@ -52,15 +59,18 @@
 **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
 * Demo Subs
 * Fusoku Subs
+* Mioro-Subs
 
 **Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
 * shisha
 * Demo Subs
 * FrixySubs
+* Mioro-Subs
 
 **Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
 * shisha
 * FujiSubs
+* Mioro-Subs
 
 **Mahoutsukai no Yoru** *(Witch on the Holy Night)*
 * FrixySubs
@@ -85,6 +95,10 @@
 * Demo Subs
 * Fusoku Subs
 * FrixySubs
+* Mioro-Subs
+
+**Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
+* Mioro-Subs
 
 **Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
 * Disney
@@ -96,12 +110,20 @@
 **Undead Unluck**
 * shisha
 * FrixySubs
+* Mioro-Subs
 
 ## <u>Hentai</u> ##
 
 
 
 ## <u>Uwzględnione grupy</u> ##
+
+* Demo Subs
+* FrixySubs
+* FujiSubs
+* Fusoku Subs
+* Mioro-Subs
+* shisha
 
 ## <u>Nieuwzględnione grupy</u> ##
 
@@ -112,7 +134,6 @@
 * Fumetsu
 * Maou Subs
 * Max-subs
-* Mioro-Subs
 * NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
@@ -178,8 +199,6 @@
 **SHY**
 
 **SPY×FAMILY Season 2**
-
-**Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
 
 **Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story** *(Tearmoon Empire)*
 
