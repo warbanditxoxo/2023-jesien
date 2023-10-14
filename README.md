@@ -15,6 +15,7 @@
 **Hametsu no Oukoku** *(The Kingdoms of Ruin)*
 * shisha
 * Demo Subs
+* Fusoku Subs
 
 **Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
 * Demo Subs
@@ -37,6 +38,7 @@
 
 **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
 * Demo Subs
+* Fusoku Subs
 
 **Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
 * shisha
@@ -55,6 +57,7 @@
 **Sousou no Frieren** *(Frieren: Beyond Journey’s End)*
 * shisha
 * Demo Subs
+* Fusoku Subs
 
 **Undead Unluck**
 * shisha
@@ -73,7 +76,6 @@
 * FAVA SUBS
 * FrixySubs
 * Fumetsu
-* Fusoku Subs
 * Maou Subs
 * Max-subs
 * Mioro-Subs
