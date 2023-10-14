@@ -22,9 +22,15 @@
 **Hoshikuzu Telepath** *(Stardust Telepath)*
 * Demo Subs
 
+**Houkago Shounen Hanako-kun** *(After-school Hanako-kun)* [TV short]
+* FujiSubs
+
 **Kage no Jitsuryokusha ni Naritakute! 2nd season** *(The Eminence in Shadow Season 2)*
 * shisha
 * Demo Subs
+
+**Kamierabi** *(KamiErabi GOD.app)*
+* FujiSubs
 
 **Kamonohashi Ron no Kindan Suiri** *(Ron Kamonohashi's Forbidden Deductions)*
 * Demo Subs
@@ -38,6 +44,7 @@
 
 **Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
 * shisha
+* FujiSubs
 
 **MF Ghost**
 * Demo Subs
@@ -61,12 +68,10 @@
 ## <u>Nieuwzględnione grupy</u> ##
 
 * DA-Subs
-* Demo Subs
 * Desu-Online
 * DraGoNSubs
 * FAVA SUBS
 * FrixySubs
-* FujiSubs
 * Fumetsu
 * Fusoku Subs
 * Maou Subs
@@ -109,8 +114,6 @@
 **FLCL: Shoegaze**
 
 **Hypnosis Mic -Division Rap Battle- Rhyme Anima+**
-
-**Kamierabi** *(KamiErabi GOD.app)*
 
 **Kanojo mo Kanojo Season 2** *(Girlfriend, Girlfriend Season 2)*
 
