@@ -55,6 +55,7 @@
 
 **Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.** *(Our Dating Story: The Experienced You and The Inexperienced Me)*
 * FrixySubs
+* FAVA SUBS
 
 **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
 * Demo Subs
@@ -96,9 +97,11 @@
 * Fusoku Subs
 * FrixySubs
 * Mioro-Subs
+* FAVA SUBS
 
 **Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
 * Mioro-Subs
+* FAVA SUBS
 
 **Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
 * Disney
@@ -119,6 +122,7 @@
 ## <u>Uwzględnione grupy</u> ##
 
 * Demo Subs
+* FAVA SUBS
 * FrixySubs
 * FujiSubs
 * Fusoku Subs
@@ -130,7 +134,6 @@
 * DA-Subs
 * Desu-Online
 * DraGoNSubs
-* FAVA SUBS
 * Fumetsu
 * Maou Subs
 * Max-subs
