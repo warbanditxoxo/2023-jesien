@@ -14,6 +14,9 @@
 * shisha
 * Demo Subs
 
+**DOG SIGNAL**
+* Maou Subs
+
 **Dr. STONE: NEW WORLD Part 2**
 * FrixySubs
 * TokyoSubs
@@ -33,6 +36,7 @@
 * Fusoku Subs
 * FrixySubs
 * Fumetsu
+* Maou Subs
 
 **Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
 * Demo Subs
@@ -40,6 +44,7 @@
 **Hoshikuzu Telepath** *(Stardust Telepath)*
 * Demo Subs
 * Mioro-Subs
+* Maou Subs
 
 **Houkago Shounen Hanako-kun** *(After-school Hanako-kun)* [TV short]
 * FujiSubs
@@ -57,15 +62,20 @@
 **Kamonohashi Ron no Kindan Suiri** *(Ron Kamonohashi's Forbidden Deductions)*
 * Demo Subs
 * Mioro-Subs
+* Maou Subs
 
 **Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.** *(Our Dating Story: The Experienced You and The Inexperienced Me)*
 * FrixySubs
 * FAVA SUBS
 
+**Kikansha no Mahou wa Tokubetsu desu** *(A Returner's Magic Should Be Special)*
+* Maou Subs
+
 **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
 * Demo Subs
 * Fusoku Subs
 * Mioro-Subs
+* Maou Subs
 
 **Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
 * shisha
@@ -81,11 +91,17 @@
 **Mahoutsukai no Yoru** *(Witch on the Holy Night)*
 * FrixySubs
 
+**Mask Danshi wa Koishitakunai noni**
+* Maou Subs
+
 **MF Ghost**
 * Noizy Tribe
 * Demo Subs
 * TokyoSubs
 * Fumetsu
+
+**Migi to Dali** *(Migi&Dali)*
+* Maou Subs
 
 **Ojou to Banken-kun** *(A Girl & Her Guard Dog)*
 * FrixySubs
@@ -111,12 +127,14 @@
 * FAVA SUBS
 * DA-Subs
 * Fumetsu
+* Maou Subs
 
 **Spy x Family Movie: Code: White**
 * TokyoSubs
 
 **SPY×FAMILY Season 2**
 * TokyoSubs
+* Maou Subs
 
 **Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
 * Mioro-Subs
@@ -140,6 +158,7 @@
 **Under Ninja**
 * TokyoSubs
 * Fumetsu
+* Maou Subs
 
 ## <u>Hentai</u> ##
 
@@ -154,6 +173,7 @@
 * FujiSubs
 * Fumetsu
 * Fusoku Subs
+* Maou Subs
 * Mioro-Subs
 * shisha
 * TokyoSubs
@@ -162,7 +182,6 @@
 
 * ~~Desu-Online~~
 * ~~DraGoNSubs~~
-* Maou Subs
 * Max-subs
 * NanaSubs
 * Ōkami-Subs
@@ -191,8 +210,6 @@
 
 **Captain Tsubasa: Season 2 - Junior Youth-hen** *(Captain Tsubasa: Junior Youth Arc)*
 
-**DOG SIGNAL**
-
 **FLCL: Shoegaze**
 
 **Hypnosis Mic -Division Rap Battle- Rhyme Anima+**
@@ -203,15 +220,11 @@
 
 **Kibou no Chikara: Otona Precure '23** *(Power of Hope ~Precure Full Bloom~)*
 
-**Kikansha no Mahou wa Tokubetsu desu** *(A Returner's Magic Should Be Special)*
-
 **Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo** *(The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You)*
 
 **Kizuna no Allele Season 2** *(Kizuna no Allele 2nd Season)*
 
 **Megumi no Daigo: Kyuukoku no Orange** *(Firefighter Daigo: Rescuer in Orange)*
-
-**Migi to Dali** *(Migi&Dali)*
 
 **Nanatsu no Taizai: Mokushiroku no Yonkishi**
 
