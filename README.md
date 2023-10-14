@@ -7,24 +7,47 @@
 
 **Dead Mount Death Play Part 2**
 * shisha
+* Demo Subs
 
 **Goblin Slayer II**
 * shisha
 
 **Hametsu no Oukoku** *(The Kingdoms of Ruin)*
 * shisha
+* Demo Subs
+
+**Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
+* Demo Subs
+
+**Hoshikuzu Telepath** *(Stardust Telepath)*
+* Demo Subs
 
 **Kage no Jitsuryokusha ni Naritakute! 2nd season** *(The Eminence in Shadow Season 2)*
 * shisha
+* Demo Subs
+
+**Kamonohashi Ron no Kindan Suiri** *(Ron Kamonohashi's Forbidden Deductions)*
+* Demo Subs
+
+**Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
+* Demo Subs
 
 **Kusuriya no Hitorigoto** *(The Apothecary Diaries)*
 * shisha
+* Demo Subs
 
 **Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
 * shisha
 
+**MF Ghost**
+* Demo Subs
+
+**Seiken Gakuin no Makentsukai** *(The Demon Sword Master of Excalibur Academy)*
+* Demo Subs
+
 **Sousou no Frieren** *(Frieren: Beyond Journey’s End)*
 * shisha
+* Demo Subs
 
 **Undead Unluck**
 * shisha
@@ -85,15 +108,9 @@
 
 **FLCL: Shoegaze**
 
-**Hikikomari Kyuuketsuki no Monmon** *(The Vexations of a Shut-In Vampire Princess)*
-
-**Hoshikuzu Telepath** *(Stardust Telepath)*
-
 **Hypnosis Mic -Division Rap Battle- Rhyme Anima+**
 
 **Kamierabi** *(KamiErabi GOD.app)*
-
-**Kamonohashi Ron no Kindan Suiri** *(Ron Kamonohashi's Forbidden Deductions)*
 
 **Kanojo mo Kanojo Season 2** *(Girlfriend, Girlfriend Season 2)*
 
@@ -109,11 +126,7 @@
 
 **Kizuna no Allele Season 2** *(Kizuna no Allele 2nd Season)*
 
-**Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu** *(I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness)*
-
 **Megumi no Daigo: Kyuukoku no Orange** *(Firefighter Daigo: Rescuer in Orange)*
-
-**MF Ghost**
 
 **Migi to Dali** *(Migi&Dali)*
 
