@@ -23,6 +23,7 @@
 **Dr. STONE: NEW WORLD Part 2**
 * FrixySubs
 * TokyoSubs
+* NanaSubs
 
 **FLCL: Grunge**
 * Mioro-Subs
@@ -31,7 +32,7 @@
 * shisha
 * FrixySubs
 * Mioro-Subs
-* Fumetsu
+* Fumetsu & NanaSubs
 
 **Hametsu no Oukoku** *(The Kingdoms of Ruin)*
 * shisha
@@ -51,6 +52,7 @@
 
 **Houkago Shounen Hanako-kun** *(After-school Hanako-kun)* [TV short]
 * FujiSubs
+* NanaSubs
 
 **Kage no Jitsuryokusha ni Naritakute! 2nd season** *(The Eminence in Shadow Season 2)*
 * shisha
@@ -85,11 +87,13 @@
 * Demo Subs
 * FrixySubs
 * Mioro-Subs
+* NanaSubs
 
 **Mahoutsukai no Yome SEASON 2 Part 2** *(The Ancient Magus' Bride Season 2 Part 2)*
 * shisha
 * FujiSubs
 * Mioro-Subs
+* NanaSubs
 
 **Mahoutsukai no Yoru** *(Witch on the Holy Night)*
 * FrixySubs
@@ -101,7 +105,7 @@
 * Noizy Tribe
 * Demo Subs
 * TokyoSubs
-* Fumetsu
+* Fumetsu & NanaSubs
 
 **Migi to Dali** *(Migi&Dali)*
 * Maou Subs
@@ -134,6 +138,7 @@
 * DA-Subs
 * Fumetsu
 * Maou Subs
+* NanaSubs
 
 **Spy x Family Movie: Code: White**
 * TokyoSubs
@@ -141,12 +146,16 @@
 **SPY×FAMILY Season 2**
 * TokyoSubs
 * Maou Subs
+* NanaSubs
 
 **Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
 * Mioro-Subs
 * FAVA SUBS
 * TokyoSubs
 * DA-Subs
+
+**Toaru Ossan no VRMMO Katsudouki** *(A Playthrough of a Certain Dude's VRMMO Life)*
+* NanaSubs
 
 **Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
 * Disney
@@ -163,12 +172,13 @@
 
 **Under Ninja**
 * TokyoSubs
-* Fumetsu
+* Fumetsu & NanaSubs
 * Maou Subs
 
+**Watashi no Oshi wa Akuyaku Reijou.** *(I'm in Love with the Villainess)*
+* NanaSubs
+
 ## <u>Hentai</u> ##
-
-
 
 ## <u>Uwzględnione grupy</u> ##
 
@@ -182,6 +192,7 @@
 * Maou Subs
 * Max-subs
 * Mioro-Subs
+* NanaSubs
 * shisha
 * TokyoSubs
 
@@ -189,7 +200,6 @@
 
 * ~~Desu-Online~~
 * ~~DraGoNSubs~~
-* NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
 * ~~wbijam (Twoja Mała Japonia)~~
@@ -245,9 +255,5 @@
 **Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story** *(Tearmoon Empire)*
 
 **The IDOLM@STER Million Live!**
-
-**Toaru Ossan no VRMMO Katsudouki** *(A Playthrough of a Certain Dude's VRMMO Life)*
-
-**Watashi no Oshi wa Akuyaku Reijou.** *(I'm in Love with the Villainess)*
 
 **Yuzuki-san Chi no Yon Kyoudai.** *(The Yuzuki Family’s Four Sons)*
