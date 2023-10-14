@@ -15,6 +15,7 @@
 
 **Dr. STONE: NEW WORLD Part 2**
 * FrixySubs
+* TokyoSubs
 
 **FLCL: Grunge**
 * Mioro-Subs
@@ -78,6 +79,7 @@
 
 **MF Ghost**
 * Demo Subs
+* TokyoSubs
 
 **Ojou to Banken-kun** *(A Girl & Her Guard Dog)*
 * FrixySubs
@@ -87,6 +89,9 @@
 
 **Ragna Crimson**
 * FrixySubs
+
+**Rail Romanesque 2**
+* TokyoSubs
 
 **Seiken Gakuin no Makentsukai** *(The Demon Sword Master of Excalibur Academy)*
 * Demo Subs
@@ -99,9 +104,16 @@
 * Mioro-Subs
 * FAVA SUBS
 
+**Spy x Family Movie: Code: White**
+* TokyoSubs
+
+**SPY×FAMILY Season 2**
+* TokyoSubs
+
 **Tate no Yuusha no Nariagari Season 3** *(The Rising of the Shield Hero Season 3)*
 * Mioro-Subs
 * FAVA SUBS
+* TokyoSubs
 
 **Tokyo Revengers: Tenjiku-hen** *(Tokyo Revengers Season 2 Part 2)*
 * Disney
@@ -114,6 +126,9 @@
 * shisha
 * FrixySubs
 * Mioro-Subs
+
+**Under Ninja**
+* TokyoSubs
 
 ## <u>Hentai</u> ##
 
@@ -128,6 +143,7 @@
 * Fusoku Subs
 * Mioro-Subs
 * shisha
+* TokyoSubs
 
 ## <u>Nieuwzględnione grupy</u> ##
 
@@ -140,7 +156,6 @@
 * NanaSubs
 * Ōkami-Subs
 * Orfeusz-Subs
-* TokyoSubs
 * wbijam (Twoja Mała Japonia)
 
 ## <u>Tytuły bez tłumaczeń</u> ##
@@ -201,15 +216,11 @@
 
 **SHY**
 
-**SPY×FAMILY Season 2**
-
 **Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story** *(Tearmoon Empire)*
 
 **The IDOLM@STER Million Live!**
 
 **Toaru Ossan no VRMMO Katsudouki** *(A Playthrough of a Certain Dude's VRMMO Life)*
-
-**Under Ninja**
 
 **Watashi no Oshi wa Akuyaku Reijou.** *(I'm in Love with the Villainess)*
 
